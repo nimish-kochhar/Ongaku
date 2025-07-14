@@ -19,8 +19,11 @@ import { FaPause } from "react-icons/fa6";
 import { FaForward } from "react-icons/fa6";
 import { FaBackward } from "react-icons/fa6";
 import { decodeHTMLEntities } from '../utils/utils';
+
+import { useGSAP } from "@gsap/react";
+
 import { useAudioStore } from '@/app/storeZustand';
-import {useGSAP} from "@gsap/react";
+
 const ExpandedMusicPlayer = ({
     expandedPlayerRef,
     isExpanded,
