@@ -246,6 +246,6 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by [Kshitiz Dhiman](https://github.com/Kshitiz-Dhiman)**
+**Made with ❤️ by [Nimish Kochhar](https://github.com/nimish-kochhar)**
 
 *Ongaku (音楽) - Japanese for "music"*
